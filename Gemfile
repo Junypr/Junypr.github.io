@@ -17,6 +17,7 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
+#  gem "no-style-please"
   gem "jekyll-feed", "~> 0.12"
 end
 

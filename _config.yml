@@ -23,4 +23,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-remote_theme: no-style-please
+remote_theme: riggraz/no-style-please

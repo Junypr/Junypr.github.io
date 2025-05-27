@@ -7,7 +7,7 @@ A group of about twenty high schoolers designing and building a pt. 103 ultralig
 
 Website: [https://www.flightclubaerospace.com/](https://www.flightclubaerospace.com/)
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfbLRmWAtf9haQ8iqkOJST-MSHUJiQ-R3uUlbu1wYWbG9ZnEiEQLWH8g5-FuTV2o2ZFCluw0j7ys1ks08w28sQLSsF0OA0ZKljX7UlZYKdIQzVHjL_0T6paQQ3vV5sC7f3orAOczfqxqnRdhNuheh3U20mb?key=PMcTQI_-P1yRvYJyJDaDFg)
+![](/assets/images/FCA.jpg)
 
 # Spring 2021
 I was immediately tasked with simulating the fuselage for a full scale pt. 103 ultralight in Fusion 360’s FEA program. We started with [simulations of lift at cruise](https://drive.google.com/file/d/1k0rWzqBlvB0en9RMMx1ror6Hot8tMt_H/view?usp=share_link) ([my notes on the forces](https://drive.google.com/file/d/1qsv9YXSSb_nSMR01X08U0L0KXhxgQyJP/view?usp=share_link)), and went onto [simulating forces on every part of the fuselage](https://drive.google.com/file/d/1uEwXPGS9KGzTQHTEiIAydxL6bMCErehA/view?usp=share_link). Experimenting with Fusion simulation’s features — especially solving our last few simulations without constraints in rigid body mode — taught me a lot about breaking down forces and finding global equilibrium. 

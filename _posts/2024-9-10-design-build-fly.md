@@ -8,7 +8,7 @@ A team of MIT students building RC planes for the AIAA's design/build/fly compet
 
 Website: [https://web.mit.edu/dbf/www/](https://web.mit.edu/dbf/www/)
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf7NZ0s36pohzpuRGUCW_42HPxK_Zf43woaOKqEQ2sTJTAhJ-uz6rReDSlzwBGDxd6kFXVkRbQruotjczKo-JBlrBQFM3wLZhRVs0imRpnTaupout9FevV63KdS4yR0Epgq2z5B?key=uLH69sh4OksxQAjhh3ff2Q)
+![](/assets/images/DBF.png)
 
 # Fall 2024
 We built small balsa gliders and [larger RC aircraft](https://photos.fife.usercontent.google.com/pw/AP1GczPE7GoR4OznoFX3C11uXpBPQHe35fhCwbed34B8u-nffjMrS1n2niXjjA=w3260-h2445-s-no-gm?authuser=0) as part of DBF's new member training. Our wobbly wing-fuselage attachment caused it to [crash](https://photos.google.com/photo/AF1QipNgvEvfnV4KIrwAhKR6gxvI8QRDwDue5OmDkw0L). 

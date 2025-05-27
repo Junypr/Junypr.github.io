@@ -5,7 +5,7 @@ author: Alex
 ---
 My team observed near earth asteroid 2002 MQ3, reduced images, found right ascension and declination, and determined its orbit using the Method of Gauss. 
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfj7fBiPUUjd3PpV42xnZs7Zfp_XfuAjcfpQgjuPn9DjT6DYYAbNLTrfekB7fal_hz-_JM9nzExf94aCXTIP1DBaMSN6m4cYOSiPnwS6lMB5C9_HeK_xB2SWpDlj2BfRm1Y2t8zO2CKT8EZE3aRq09lcuw_?key=PMcTQI_-P1yRvYJyJDaDFg)
+![](/assets/images/SSP.png)
 
 I wrote several more times code at SSP than I ever have. Much of it was translating equations that we had gone over during lecture into python, which was theoretically simple but very hard to debug. 
 

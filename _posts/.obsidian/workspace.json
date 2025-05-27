@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a308b042b2000d10",
+        "id": "648d1866f7216daf",
         "type": "tabs",
         "children": [
           {
-            "id": "8715548e9593d73e",
+            "id": "e7344af6a6c0e489",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-9-24-misc-projects.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-9-24-misc-projects"
+              "title": "New tab"
             }
           }
         ]
@@ -168,20 +164,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8715548e9593d73e",
+  "active": "e7344af6a6c0e489",
   "lastOpenFiles": [
+    "assets.md",
+    "2020-12-21-flight-club-aerospace.md",
+    "2024-9-24-misc-projects.md",
     "2024-9-10-design-build-fly.md",
+    "2023-06-17-summer-science-program.md",
+    "2021-08-31-nasa-techrise.md",
     "Pasted image 20250526172413.png",
     "Pasted image 20250526165422.png",
     "Pasted image 20250526165112.png",
     "Pasted image 20250526165104.png",
     "Pasted image 20250526163142.png",
-    "2024-9-24-misc-projects.md",
     "().md",
-    "2021-08-31-nasa-techrise.md",
-    "2023-06-17-summer-science-program.md",
     "2024-10-2-oystermaran.md",
-    "2020-12-21-flight-club-aerospace.md",
     "2021-8-31-nasa-techrise.md",
     "Untitled 1.md",
     "2018-08-22-kiwifruit.md",

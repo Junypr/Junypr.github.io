@@ -8,7 +8,7 @@ A six-person team of Aragon students who won the NASA TechRise Challenge. We’v
 
 Website: [https://www.futureengineers.org/nasatechrise2021/gallery/51651](https://www.futureengineers.org/nasatechrise2021/gallery/51651) 
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf7c3vFNFkjXkW6vbdJygOJat3d4izcrvS8a3-c87zjA4tPDjzvBbY5Gj8DIRLClyUlpbQ6mTX0JBLkBb8GuFVUawk8OQompJJBrLGK3sa1t24C3x-PWzNz3-GdNEQOxJCDnKIRVVXn-wLZw9d01w_CEqg?key=PMcTQI_-P1yRvYJyJDaDFg)
+![](/assets/images/NASA.png)
 # Fall 2021
 We brainstormed many ideas for a proposal, then ranked each based on the competition criteria. I did an experiment in my AP Biology class observing the efficacy of catalase under different temperatures and pH levels, so I suggested we do a similar experiment in microgravity, which was the idea we chose to use. We ran [a version of the experiment](https://drive.google.com/file/d/1kR8xKX2UInRivzZZe2LFIEDXJyPtduGh/view?usp=share_link) to see how it might work, and decided to use resistance to measure how much oxygen gas was being produced. We [CADed a design](https://cad.onshape.com/documents/883287bd57fbaa5056bf3a2d/w/ddf9bfef1811d341a83d56e3/e/35227c6baf0f57c89ab86608) with two syringes and a reaction chamber and submitted our proposal.
 # Spring 2022

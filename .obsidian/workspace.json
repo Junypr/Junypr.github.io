@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d5296ec535253512",
+        "id": "707862ff7d5ffd85",
         "type": "tabs",
         "children": [
           {
-            "id": "d643ae520b368616",
+            "id": "e843ae94576fff78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-9-24-misc-projects.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-9-24-misc-projects"
             }
           }
         ]
@@ -161,6 +165,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d643ae520b368616",
-  "lastOpenFiles": []
+  "active": "e843ae94576fff78",
+  "lastOpenFiles": [
+    "_posts/2024-9-10-design-build-fly.md",
+    "_posts/2023-06-17-summer-science-program.md",
+    "_posts/2021-08-31-nasa-techrise.md",
+    "_site/assets/images/NASA.png",
+    "_posts/2020-12-21-flight-club-aerospace.md",
+    "_site/assets/images/shirts.png",
+    "_site/assets/images/SSP.png",
+    "_site/assets/images/NASA TechRise.png",
+    "_site/assets/images/Flower.png",
+    "_site/assets/images/FPOP.png",
+    "_site/assets/images/FCA.jpg",
+    "_site/assets/images/DBF.png",
+    "_site/assets/images",
+    "assets 1.md",
+    "assets.md",
+    "_posts/assets.md",
+    "assets/images/SSP.png.sb-4448bb0c-Vj9Wlx",
+    "assets/images/shirts.png.sb-4448bb0c-J5FpOA",
+    "assets/images/shirts.png.sb-4448bb0c-cgATVb",
+    "assets/images/Flower.png.sb-4448bb0c-cT6VmX",
+    "assets/images/FCA.jpg.sb-4448bb0c-VQLci4",
+    "assets/images/shirts.png",
+    "assets/images/FPOP.png",
+    "assets/images/FPOP.png.crdownload"
+  ]
 }

@@ -4,13 +4,13 @@ category: projects
 author: Alex
 ---
 
-![](/assets/images/flower.png)
+![](/assets/images/Flower.png)
 
 Sheet metal flower bowl laser-cut on a Fablight and powder-coated.
 
 ---
 
-![](/assets/images/fpop.png)
+![](/assets/images/FPOP.png)
 
 Sea Perch built as part of MIT's Discover Ocean Engineering FPOP. A tethered aquatic robot with thrusters designed to compete to pop balloons and gather floating objects. We won third place!
 

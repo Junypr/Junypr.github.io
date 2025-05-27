@@ -1,0 +1,36 @@
+---
+layout: post
+author: Alex
+category: projects
+---
+
+A six-person team of Aragon students who won the NASA TechRise Challenge. We’ve designed and built an experiment that monitors the breakdown of hydrogen peroxide catalyzed by potassium iodide in microgravity. Our experiment is complete, shipped to NASA, and awaiting launch on Blue Origin’s New Shepard.
+
+Website: [https://www.futureengineers.org/nasatechrise2021/gallery/51651](https://www.futureengineers.org/nasatechrise2021/gallery/51651) 
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf7c3vFNFkjXkW6vbdJygOJat3d4izcrvS8a3-c87zjA4tPDjzvBbY5Gj8DIRLClyUlpbQ6mTX0JBLkBb8GuFVUawk8OQompJJBrLGK3sa1t24C3x-PWzNz3-GdNEQOxJCDnKIRVVXn-wLZw9d01w_CEqg?key=PMcTQI_-P1yRvYJyJDaDFg)
+# Fall 2021
+We brainstormed many ideas for a proposal, then ranked each based on the competition criteria. I did an experiment in my AP Biology class observing the efficacy of catalase under different temperatures and pH levels, so I suggested we do a similar experiment in microgravity, which was the idea we chose to use. We ran [a version of the experiment](https://drive.google.com/file/d/1kR8xKX2UInRivzZZe2LFIEDXJyPtduGh/view?usp=share_link) to see how it might work, and decided to use resistance to measure how much oxygen gas was being produced. We [CADed a design](https://cad.onshape.com/documents/883287bd57fbaa5056bf3a2d/w/ddf9bfef1811d341a83d56e3/e/35227c6baf0f57c89ab86608) with two syringes and a reaction chamber and submitted our proposal.
+# Spring 2022
+After we learned that we won, we immediately started talking to teachers about polishing our experiment. Ms. Ward, the AP Biology teacher, brought to our attention that catalase was not shelf stable. We looked into ways to stabilize the enzyme, including adding glucose and glycerol, since the experiment would be in storage for months before the launch. We tried adding glycerol to catalase and leaving it at room temperature, but the catalase degraded, so we switched to potassium iodide. 
+
+Our chemistry teacher Mr. Doyle recommended that we measure volume and pressure in order to calculate the amount of oxygen, rather than resistance, which would be affected by ions generated during the reaction. He demonstrated to us the upside down burette method, then we did o[ur own version of the experiment using potassium iodide and hydrogen peroxide](https://drive.google.com/file/d/1lt1T4D9A-Mw3fx6e_5cztLyfoyag5V0C/view?usp=drive_link) with the help of Mr. Moretti. I did the [stoichiometric calculations](https://drive.google.com/file/d/1Fcq1xNlFjgVjWCPFFs1RVvivLvy_cRfj/view?usp=drive_link) to see how much hydrogen peroxide we should use, and researched the [Van Der Waals equation](https://drive.google.com/file/d/1ntELYJEjcXLB71bCzulTn8-QlXEt9Nm-/view?usp=drive_link) and [Henry’s law](https://drive.google.com/file/d/17fUhpgKheBUzYgB99TabJUBF7gmfdxq5/view?usp=drive_link) to derive equations to calculate the total amount of oxygen produced. 
+
+We went through several iterations of the design: [a syringe and a large reaction chamber](https://drive.google.com/file/d/1xNNi8LzvhDotWhVi08P8v2LnFmGPRMfC/view?usp=drive_link) and [two syringes with a test tube](https://drive.google.com/file/d/1Yo6EMFohAJz8Mo0dcthtGTgwme67P9gB/view?usp=drive_link) before deciding to use [two syringes](https://drive.google.com/file/d/1Yo6EMFohAJz8Mo0dcthtGTgwme67P9gB/view?usp=drive_link), the larger one carrying hydrogen peroxide and serving as the reaction chamber, and the smaller carrying potassium iodide. We built it — and then struggled to make it leak proof. After unsuccessfully trying caulking, our NASA mentors introduced us to Luer Locks, and Mr. Apperson, our shop teacher, showed us PTFE tape. We conducted [lots of tests](https://drive.google.com/file/d/1i9aVXoEJZgiy3cZPimCUqQccEVcXsYcR/view?usp=share_link) until the experiment stopped leaking. At the end of it I learned to iterate, iterate, iterate. We failed. Many times. 
+
+We 3D printed our mount out of PETG. I tried a [clamp design](https://cad.onshape.com/documents/883287bd57fbaa5056bf3a2d/w/ddf9bfef1811d341a83d56e3/e/c506fb46e782a85f0de347a8) originally, but [we settled for zip ties](https://cad.onshape.com/documents/883287bd57fbaa5056bf3a2d/w/ddf9bfef1811d341a83d56e3/e/ab4777abb0003c9c09c7d2c6) that Jorell designed. Designing the tolerances was a struggle because [PETG does not print cleanly](https://drive.google.com/file/d/136-G5eP8XqjIlSp9-zEFhFwVHEG0H9R4/view?usp=share_link) — at one point Jorell used a blow torch and screwdriver to widen the zip tie slots.
+
+As our electronics arrived, we started testing and designing the mechanism to depress the small syringe. We tried a [push-pull bar](https://cad.onshape.com/documents/883287bd57fbaa5056bf3a2d/w/ddf9bfef1811d341a83d56e3/e/60b6005c61ed1d9d610fabc3) and even considered a four bar linkage before I designed a [screw gear](https://cad.onshape.com/documents/883287bd57fbaa5056bf3a2d/w/ddf9bfef1811d341a83d56e3/e/f080299fea6aa91cc59d69e3). However, the bevel gears that connected the stepper to the stepper motor kept [skipping teeth](https://drive.google.com/file/d/1t-PV66HqfmQ_mNcvvbEMp7EsDqWzwxqv/view?usp=share_link) and the motor did not have enough torque. 
+# Summer 2022
+By the end of the school year, we had a [mostly working prototype](https://drive.google.com/file/d/183EmxHwqvOkUBwPmIbMkcIacFBBICML1/view?usp=share_link). We continued to test for leaks, and strength tested our setup by putting everything together and throwing it around (unfortunately, [our mount just barely didn’t fit inside the flight box](https://drive.google.com/file/d/1eSf7jtp8g-rFptCmx4PtcjiwuYUSTjpl/view?usp=share_link)). Meanwhile we noticed that the hydrogen peroxide was corroding our brass NPT fittings and our solenoid valve.
+
+Rachel worked on the code, and Jake soldered, so by the end of the summer, [our sensors were working as well](https://drive.google.com/file/d/1Bi81sI198UgGASPhPMQdUsL7JRLUAuns/view?usp=share_link).
+
+# Fall 2022
+We [printed our final mount](https://drive.google.com/file/d/1i8qgFtO4rtXYlcFvPeYxEG1nDr3mr7X_/view?usp=share_link), [finally got everything to fit inside](https://drive.google.com/file/d/16DbWVMZN3L7ftXLoHTf1-GB2zGHWJlXk/view?usp=share_link), and staked and potted our electronics. We tried to fix the corrosion on the NPT fittings by coating them with polyurethane, which didn’t work, so we switched to plastic NPT fittings. We couldn’t find a plastic solenoid, so we left an air gap between the hydrogen peroxide and the solenoid. 
+
+We got a DC motor with more torque and [fixed our screw gear](https://cad.onshape.com/documents/883287bd57fbaa5056bf3a2d/w/ddf9bfef1811d341a83d56e3/e/2cb588ee3b84cc494f521c16), removing the bevel. A little bit of graphite to lubricate and it worked! 
+
+The last few weeks were focused on soldering, testing, and screwing everything together — including last minute runs to Ace Hardware when we realized a screw was missing. Thankfully the switch to plastic NPT fittings left us nicely under the 500g limit. We shipped October 19. 
+
+Our experiment was set to launch on Blue Origin’s New Shepard sometime early 2023. Unfortunately, as of right now, due to the New Shepard being grounded, the experiment has not been launched. 

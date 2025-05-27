@@ -1,0 +1,21 @@
+entries:
+  - title: About Me
+    entries:
+      - title: Hey there! I'm Alex, a 6-3 (Computer Science & Engineering) student at the Massachusetts Institute of Technology, class of 2028.
+
+  - title: Projects
+    post_list:
+      limit: 10
+      category: projects
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: Handy Links
+    entries:
+      - title: Resume
+        url: https://docs.google.com/document/d/e/2PACX-1vQ680_rx9E-_EXYjVEmBhlRbKSyMCx6MEJ1bro4Y-4saYKJB_cQMCLdCgJ1t4lrNLbl2a5fohLNG-29/pub
+      - title: Linkedin
+        url: https://www.linkedin.com/in/alexandra-ding/
+      - title: Photography
+        url: https://unsplash.com/@junypr

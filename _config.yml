@@ -1,3 +1,23 @@
+title: Alex Ding
+author: Alex Ding
+email: alex.e.ding@gmail.com
+url: https://Junypr.github.io
+baseurl: ""
+description: "Portfolio of Alex Ding, MIT '28 computer science student."
+
+permalink:
+
+favicon: "logo.png"
+
+theme_config:
+  appearance: "auto"
+  back_home_text: ".."
+  date_format: "%Y-%m-%d"
+  show_description: false
+
+sass:
+  style: compressed
+
 collections:
   authors:
     output: true
@@ -22,5 +42,14 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jektex
 
-remote_theme: riggraz/no-style-please
+jektex:
+  cache_dir: ".jektex-cache"
+  ignore: ["*.xml"]
+  silent: false
+  macros:
+    - ["\\Q", "\\mathbb{Q}"]
+    - ["\\C", "\\mathbb{C}"]
+
+remote_theme: Junypr/no-style-please

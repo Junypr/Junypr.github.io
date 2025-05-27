@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "486388cd619e95f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a308b042b2000d10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8715548e9593d73e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-9-24-misc-projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-9-24-misc-projects"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84e1d57b716f03c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "23ac1c07128da73e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2743f8ada85ffd77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bc4b017b4b3bca81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6c4bb7de59b59db3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8da734340110812b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b9e9cd58f13f836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f95b90c516a957aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-9-10-design-build-fly.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-9-10-design-build-fly"
+            }
+          },
+          {
+            "id": "eb3235b158b51331",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-9-10-design-build-fly.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-9-10-design-build-fly"
+            }
+          },
+          {
+            "id": "294e44552e7e1168",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f25d3f35ea5fce58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-9-10-design-build-fly.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-9-10-design-build-fly"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8715548e9593d73e",
+  "lastOpenFiles": [
+    "2024-9-10-design-build-fly.md",
+    "2024-9-24-misc-projects.md",
+    "().md",
+    "Pasted image 20250526172413.png",
+    "2021-08-31-nasa-techrise.md",
+    "2023-06-17-summer-science-program.md",
+    "2024-10-2-oystermaran.md",
+    "Pasted image 20250526165422.png",
+    "Pasted image 20250526165112.png",
+    "Pasted image 20250526165104.png",
+    "Pasted image 20250526163142.png",
+    "2020-12-21-flight-club-aerospace.md",
+    "2021-8-31-nasa-techrise.md",
+    "Untitled 1.md",
+    "2018-08-22-kiwifruit.md",
+    "Less Forces Results Side View.png",
+    "screen_shot_2021-05-09_at_2.25.36_pm.png",
+    "screen_shot_2021-05-09_at_2.25.36_pm 1.png",
+    "2018-08-20-bananas.md"
+  ]
+}

@@ -2,6 +2,7 @@
 layout: post
 author: Alex
 category: projects
+"":
 ---
 
 A six-person team of Aragon students who won the NASA TechRise Challenge. We’ve designed and built an experiment that monitors the breakdown of hydrogen peroxide catalyzed by potassium iodide in microgravity. Our experiment is complete, shipped to NASA, and awaiting launch on Blue Origin’s New Shepard.

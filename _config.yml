@@ -53,3 +53,5 @@ jektex:
     - ["\\C", "\\mathbb{C}"]
 
 remote_theme: Junypr/no-style-please
+
+google_analytics: G-57SH859YSY

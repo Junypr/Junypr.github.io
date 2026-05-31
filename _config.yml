@@ -43,6 +43,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jektex
+  - jekyll-redirect-from
 
 jektex:
   cache_dir: ".jektex-cache"
